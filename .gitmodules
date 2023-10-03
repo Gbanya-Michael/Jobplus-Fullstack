@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:Pennymike/Jobplus-frontend.git
+[submodule "back"]
+	path = back
+	url = git@github.com:Pennymike/Jobplus-backend.git
