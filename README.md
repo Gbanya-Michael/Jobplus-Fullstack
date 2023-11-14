@@ -12,9 +12,9 @@ The wesite is password protected and can only be accessed by authenticated users
 # Installation
 
 On your terminal:
-==========
+
 "git clone" to clone the repository to your local machine.
-==========
+
 "yarn install" to install all the dependencies.
-==========
+
 "yarn dev" to start the server.
